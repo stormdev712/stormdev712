@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Pedro Nunes!
+# 👋 Hello, I'm a senior Fullstack and Blockchain develoepr!
 
-Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about leveraging technology to build innovative solutions. 
+Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about leveraging technology to build innovative solutions. You'll find a collection of my open-source projects, contributions, and ongoing research. Join me on this exciting journey of innovation and technology! 🚀 
 
 <p>
 <!-- Blockchain -->
@@ -178,7 +178,7 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 ## Experience
 
-- 💼 Over 5 years of experience as a Blockchain and Bot Expert, specializing in Ethereum, Solana, and bot development.
+- 💼 Over 6 years of experience as a Blockchain and Bot Expert, specializing in Ethereum, Solana, and bot development.
 - 🚀 Successfully developed and deployed multiple blockchain projects, including decentralized applications (DApps), smart contracts, and blockchain-based solutions.
 - 🤖 Extensive expertise in bot development, creating chatbots, automation tools, and integrations with popular messaging platforms.
 
