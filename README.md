@@ -134,7 +134,9 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 </p>
 
 ## My Portfolio
-[![Portfolio](https://pedroportfolio.vercel.app/image/screen.png)](https://pedroportfolio.vercel.app)
+[![Portfolio]("https://pedroportfolio.vercel.app/image/screen.png")](https://pedroportfolio.vercel.app)
+<img src="./profile.png" />
+<!-- [![Portfolio](https://pedroportfolio.vercel.app/image/screen.png)](https://pedroportfolio.vercel.app) -->
 
 ## About Me
 
